@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=berdikulov-571&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="berdikulov-571's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=berdikulov-571&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=berdikulov-571&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="berdikulov-571's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=berdikulov-571&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=berdikulov-571&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="murodovich's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=murodovich&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="murodovich's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+  <img src="https://profile-counter.glitch.me/murodovich/count.svg" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -140,5 +140,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+  <img src="https://profile-counter.glitch.me/murodovich/count.svg" />
 </p>
