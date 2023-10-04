@@ -34,14 +34,6 @@ Here are some ideas to get you started:
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="murodovich's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=murodovich&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
-
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/murodovich/count.svg" />
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
