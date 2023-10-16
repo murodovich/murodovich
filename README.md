@@ -134,3 +134,10 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/murodovich/count.svg" />
 </p>
+
+<a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Murodovich&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+</a>
