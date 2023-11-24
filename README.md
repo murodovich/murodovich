@@ -1,36 +1,28 @@
 ### Hi there I'm Sarvar👋
 ### I'm .net developer 👨🏻‍💻
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SardorSohinazarov">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=murodovich">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Sardor👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Sarvar👨‍💻&center=true&size=30">
   </a>
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </h1>
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/sardorsohinazarov/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sardorsohinazarov/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://t.me/sardorsohinazarov" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.instagram.com/murodovich_n1/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://t.me/murodovich_n1" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
 
 <br>
 
 <p align="center">
-  Hi, I'm Sardor, .NET Software Engineer from Uzbekistan
+  Hi, I'm Sarvar, .NET Software Engineer from Uzbekistan
   <br>
   <br>
   🔬 I'm currently studying at Tashkent University of IT
-  <br>
-  ✍️ My personal website, where I share interesting post about me <a href="https://sardorsohinazarov.uz">https://sardorsohinazarov.uz</a>
-  <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/professional_mistakemaker">sardorsohinazarov</a>
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/SardorSohinazarov/SardorSohinazarov/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: sardorstudent0618@gmail.com">sardorstudent0618@gmail.com</a>
 </p>
 
 
