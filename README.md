@@ -1,6 +1,3 @@
-### Hi there I'm Sarvar👋
-### I'm .net developer 👨🏻‍💻
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=murodovich">
 
 <h1 align="center">
